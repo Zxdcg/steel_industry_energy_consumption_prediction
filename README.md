@@ -6,7 +6,7 @@ This project is to find the suitable machine learning model to predict the energ
 
 # Key highlights:
 Performed various Exploratory Data Analysis to understand the data and compare the variables.
-Features were selected based on the statistical significance test and by removing multicollinear variables
-Experimented with different Machine Learning algorithms Linear Regression, Random Forest, Support Vector Machine, KNN, Bagging, and Boosting.
+Features were selected based on the statistical significance test and by removing multicollinear variables.
+Experimented with different Machine Learning algorithms like Linear Regression, Random Forest, Support Vector Machine, KNN, Bagging, and Boosting.
 Compared the results to recommend the best Machine Learning model.
   The best model that fits our data is Random Forest.
