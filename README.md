@@ -10,7 +10,7 @@ Performed various Exploratory Data Analysis to understand the data and compare t
 
 Features were selected based on the statistical significance test and by removing multicollinear variables.
 
-Experimented with different Machine Learning algorithms like Linear Regression, Random Forest, Support Vector Machine, KNN, Bagging, and Boosting.
+Experimented with different Machine Learning algorithms like Multiple Linear Regression, Random Forest, Support Vector Machine, KNN, Bagging, and Boosting with different train and test split ratios.
 
 Compared the results to recommend the best Machine Learning model.
 
